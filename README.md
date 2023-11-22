@@ -1,4 +1,4 @@
-# exerciciosVaiNaWeb
+# Exercícios VAI NA WEB - BACKEND
 
 <div align="center" height="100">
   <img src="https://user-images.githubusercontent.com/113947566/268516882-d58a8d39-9af4-401c-980f-f5c7bcd507bf.png" height="100">
